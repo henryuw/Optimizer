@@ -1,0 +1,4 @@
+#Mon Sep 18 20:11:29 EDT 2017
+base.0=C\:\\Users\\Henry\\AndroidStudioProjects\\android\\gradleBuild\\intermediates\\transforms\\dexMerger\\debug\\9
+renamed.0=classes.dex
+file.0=C\:\\Users\\Henry\\AndroidStudioProjects\\android\\gradleBuild\\intermediates\\transforms\\dexMerger\\debug\\9\\classes.dex
